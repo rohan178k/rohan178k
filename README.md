@@ -224,11 +224,6 @@ fun_fact: >
 
 ---
 
-<!-- TROPHIES — volunteer-hosted mirror listed on official ryo-ma repo (stable) -->
-<div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=rohan178k&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" width="100%" />
-</div>
-
 <br/>
 
 <!-- SNAKE ANIMATION — platane/snk (GitHub Actions output, hosted on raw.githubusercontent.com — always stable) -->

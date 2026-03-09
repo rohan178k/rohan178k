@@ -1,11 +1,71 @@
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--               ROHAN KUSMUDE — GitHub Profile README               -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<!-- Animated header wave banner (capsule-render — stable & reliable) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2FBE,100:FF6B6B&height=220&section=header&text=Rohan%20Kusmude&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Artist%20%7C%20Poet%20%7C%20Musician&descAlignY=56&descSize=20&animation=fadeIn" />
+
+<!-- Animated typing SVG (readme-typing-svg — stable) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=720&lines=Hey+there!+I'm+Rohan+%F0%9F%91%8B;19-year-old+BCA+Student+%7C+Developer;Building+things+that+matter+%F0%9F%9A%80;Code+%2B+Art+%2B+Music+%3D+Me+%F0%9F%8E%B8;Poet+in+4+Languages+%E2%9C%8D%EF%B8%8F" alt="Typing SVG" />
+
+<br/>
+
+<!-- Badges -->
+<img src="https://komarev.com/ghpvc/?username=rohan178k&label=Profile+Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/rohan178k?label=Followers&style=for-the-badge&color=7B2FBE&labelColor=0d1117" alt="Followers" />
+<img src="https://img.shields.io/badge/Age-19-FF6B6B?style=for-the-badge&logoColor=white" alt="Age" />
+<img src="https://img.shields.io/badge/Location-Ahmednagar%2C%20MH-00D9FF?style=for-the-badge&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/Open%20To-Collaborations-4caf50?style=for-the-badge&logoColor=white" alt="Open to Work" />
+
+</div>
+
+---
+
+## 👤 About Me
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+```yaml
+name:       Rohan Kusmude
+alias:      rohan178k
+age:        19
+degree:     Second Year BCA Student
+location:   Ahmednagar, Maharashtra, India
+
+passion:
+  - Building full-stack web apps
+  - Creative writing & Hindi poetry
+  - Music: Guitar 🎸 & Piano 🎹
+  - Public speaking & storytelling
+  - Painting & visual art 🎨
+
+languages_spoken:
+  - Hindi | English | Marathi | Urdu
+
+currently_learning:
+  - Advanced React & Next.js patterns
+  - Backend architecture & REST APIs
+  - AI integration in web projects
+
+fun_fact: >
+  I debug code at 2 AM and write
+  poetry in 4 languages 🌙✍️
+```
+
 </td>
-<td width="45%" align="center" valign="top">
+<td width="45%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rohan178k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff&rank_icon=github" alt="GitHub Stats" width="100%" />
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=rohan178k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff" alt="Rohan's GitHub Stats" width="100%" />
 
-<br><br>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan178k&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D9FF&ring=7B2FBE&fire=FF6B6B&currStreakLabel=00D9FF" alt="Streak Stats" width="100%" />
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=rohan178k&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D9FF&ring=7B2FBE&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=ffffff&dates=888888" alt="Streak Stats" width="100%" />
 
 </td>
 </tr>
@@ -13,12 +73,7 @@
 
 ---
 
-<!-- Tech Stack Section -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=500&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+Stack+%26+Skills" alt="Tech Stack" />
-</div>
-
-<br>
+## 🛠️ Tech Stack & Skills
 
 ### 💻 Programming Languages
 
@@ -72,66 +127,75 @@
 
 ---
 
-<!-- GitHub Activity Graph -->
+## 📊 GitHub Analytics
+
+<!-- Activity Graph -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=7B2FBE&center=true&vCenter=true&width=500&lines=%F0%9F%93%88+GitHub+Activity" alt="GitHub Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan178k&bg_color=0d1117&color=00D9FF&line=7B2FBE&point=FF6B6B&area=true&hide_border=true&area_color=7B2FBE" width="95%" alt="Activity Graph" />
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan178k&bg_color=0d1117&color=00D9FF&line=7B2FBE&point=FF6B6B&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan178k&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&langs_count=8" alt="Top Languages" width="38%" />
+&nbsp;&nbsp;&nbsp;
+<!-- Profile Summary Cards - Productive Time (github-profile-summary-cards - stable) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohan178k&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="38%" />
+
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan178k&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&langs_count=8" alt="Top Languages" />
-</div>
-
----
-
-<!-- Featured Projects -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Featured+Projects" alt="Featured Projects" />
-</div>
-
-<br>
-
-<div align="center">
-
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=rohan178k&repo=Web-Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff)](https://github.com/rohan178k/Web-Projects)
-[![Python Projects](https://github-readme-stats.vercel.app/api/pin/?username=rohan178k&repo=Python-Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff)](https://github.com/rohan178k/Python-Projects)
-
-[![Data Analysis Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=rohan178k&repo=Data-Analysis-Dashboard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff)](https://github.com/rohan178k/Data-Analysis-Dashboard)
-[![Anime Theme Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=rohan178k&repo=Anime-Theme-Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff)](https://github.com/rohan178k/Anime-Theme-Portfolio)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohan178k&theme=tokyonight" width="82%" alt="Profile Summary" />
 </div>
 
 ---
 
-<!-- Hobbies Section -->
+## 🚀 Featured Projects
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=500&lines=%F0%9F%8C%9F+Beyond+the+Code" alt="Hobbies" />
+
+<a href="https://github.com/rohan178k/Web-Projects">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan178k&repo=Web-Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff" alt="Web Projects" width="47%" />
+</a>
+<a href="https://github.com/rohan178k/Python-Projects">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan178k&repo=Python-Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff" alt="Python Projects" width="47%" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/rohan178k/Data-Analysis-Dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan178k&repo=Data-Analysis-Dashboard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff" alt="Data Analysis Dashboard" width="47%" />
+</a>
+<a href="https://github.com/rohan178k/Anime-Theme-Portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan178k&repo=Anime-Theme-Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff" alt="Anime Theme Portfolio" width="47%" />
+</a>
+
 </div>
 
-<br>
+> 💡 Star a repo if you find it useful — it means a lot! 🌟
+
+---
+
+## 🌟 Beyond the Code
 
 <div align="center">
 
 | 🎸 Music | ✍️ Writing | 🎮 Gaming | 🎨 Painting |
 |:---------:|:-----------:|:---------:|:-----------:|
-| Guitar & Piano | Poetry in 4 languages | Avid Gamer | Visual Artist |
+| Guitar & Piano/Keyboard | Poetry in Hindi, English, Marathi & Urdu | Avid Gamer | Visual Artist |
 
-| 📢 Public Speaking | 📚 Reading | 🌙 Night Owl Coder |
-|:------------------:|:----------:|:-----------------:|
-| Storyteller & Orator | Bookworm | Best code at 2 AM |
+| 📢 Public Speaking | 📚 Reading | 🌙 Night Owl |
+|:------------------:|:----------:|:------------:|
+| Storyteller & Orator | Bookworm at heart | Best code at 2 AM |
 
 </div>
 
-<br>
+<br/>
 
-<!-- Poetry snippet -->
 <div align="center">
 
 > *"कोड में भी शायरी है,*
@@ -143,37 +207,41 @@
 
 ---
 
-<!-- Connect Section -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=7B2FBE&center=true&vCenter=true&width=500&lines=%F0%9F%A4%9D+Let's+Connect!" alt="Connect" />
-</div>
-
-<br>
+## 🤝 Let's Connect!
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-00D9FF?style=for-the-badge&logoColor=white)](https://rohan-portfolio-omega.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00D9FF?style=for-the-badge)](https://rohan-portfolio-omega.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rohankusmude-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohankusmude)
 [![GitHub](https://img.shields.io/badge/GitHub-rohan178k-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohan178k)
 
 </div>
 
-<br>
+---
 
-<!-- Snake game animation -->
+<!-- GitHub Trophies (github-profile-trophy — stable) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="90%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rohan178k&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" width="100%" />
 </div>
 
----
+<br/>
+
+<!-- Snake contribution animation (platane/snk — stable GitHub Actions output) -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="90%" />
+  </picture>
+</div>
 
 <!-- Footer wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:7B2FBE,100:00D9FF&height=120&section=footer&animation=fadeIn" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%AD%90+Star+a+repo+if+you+find+it+useful+%F0%9F%98%84;Always+building%2C+always+learning%2C+always+creating+%F0%9F%9A%80" alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3500&pause=1000&color=888888&center=true&vCenter=true&width=650&lines=Thanks+for+visiting!+%E2%AD%90+Drop+a+star+if+you+like+what+you+see!;Always+building%2C+always+learning%2C+always+creating+%F0%9F%9A%80" alt="Footer typing" />
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--       Made with ❤️ by Rohan Kusmude | rohan178k              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--         Made with ❤️ by Rohan Kusmude | @rohan178k               -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->

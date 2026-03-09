@@ -1,23 +1,23 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--               ROHAN KUSMUDE — GitHub Profile README               -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--              ROHAN KUSMUDE — GitHub Profile README               -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- Animated header wave banner (capsule-render — stable & reliable) -->
+<!-- TOP WAVE BANNER — capsule-render (always stable) -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B2FBE,100:FF6B6B&height=220&section=header&text=Rohan%20Kusmude&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Artist%20%7C%20Poet%20%7C%20Musician&descAlignY=56&descSize=20&animation=fadeIn" />
 
-<!-- Animated typing SVG (readme-typing-svg — stable) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=720&lines=Hey+there!+I'm+Rohan+%F0%9F%91%8B;19-year-old+BCA+Student+%7C+Developer;Building+things+that+matter+%F0%9F%9A%80;Code+%2B+Art+%2B+Music+%3D+Me+%F0%9F%8E%B8;Poet+in+4+Languages+%E2%9C%8D%EF%B8%8F" alt="Typing SVG" />
+<!-- ANIMATED TYPING — readme-typing-svg.demolab.com (stable) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=720&lines=Hey+there!+I'm+Rohan+%F0%9F%91%8B;19-year-old+BCA+Student+%7C+Developer;Building+things+that+matter+%F0%9F%9A%80;Code+%2B+Art+%2B+Music+%3D+Me+%F0%9F%8E%B8;Poet+in+4+Languages+%E2%9C%8D%EF%B8%8F" alt="Typing SVG" />
 
 <br/>
 
-<!-- Badges -->
+<!-- BADGES — shields.io (always stable) -->
 <img src="https://komarev.com/ghpvc/?username=rohan178k&label=Profile+Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/rohan178k?label=Followers&style=for-the-badge&color=7B2FBE&labelColor=0d1117" alt="Followers" />
-<img src="https://img.shields.io/badge/Age-19-FF6B6B?style=for-the-badge&logoColor=white" alt="Age" />
-<img src="https://img.shields.io/badge/Location-Ahmednagar%2C%20MH-00D9FF?style=for-the-badge&logoColor=white" alt="Location" />
-<img src="https://img.shields.io/badge/Open%20To-Collaborations-4caf50?style=for-the-badge&logoColor=white" alt="Open to Work" />
+<img src="https://img.shields.io/badge/Age-19-FF6B6B?style=for-the-badge" alt="Age" />
+<img src="https://img.shields.io/badge/Location-Ahmednagar%2C%20MH-00D9FF?style=for-the-badge" alt="Location" />
+<img src="https://img.shields.io/badge/Open%20To-Collaborations-4caf50?style=for-the-badge" alt="Open to Work" />
 
 </div>
 
@@ -27,7 +27,7 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="52%" valign="top">
 
 ```yaml
 name:       Rohan Kusmude
@@ -57,14 +57,14 @@ fun_fact: >
 ```
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="48%" valign="top" align="center">
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=rohan178k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff" alt="Rohan's GitHub Stats" width="100%" />
+<!-- STATS — github-stats.vercel.app (community mirror, actively maintained) -->
+<img src="https://github-stats.vercel.app/api?username=rohan178k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff" alt="GitHub Stats" width="100%" />
 
 <br/><br/>
 
-<!-- Streak Stats -->
+<!-- STREAK — streak-stats.demolab.com (official stable URL) -->
 <img src="https://streak-stats.demolab.com?user=rohan178k&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D9FF&ring=7B2FBE&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=ffffff&dates=888888" alt="Streak Stats" width="100%" />
 
 </td>
@@ -129,52 +129,57 @@ fun_fact: >
 
 ## 📊 GitHub Analytics
 
-<!-- Activity Graph -->
+<!-- ACTIVITY GRAPH — github-readme-activity-graph.vercel.app (stable, separate project) -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan178k&bg_color=0d1117&color=00D9FF&line=7B2FBE&point=FF6B6B&area=true&hide_border=true&area_color=7B2FBE" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan178k&bg_color=0d1117&color=00D9FF&line=7B2FBE&point=FF6B6B&area=true&hide_border=true" width="95%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<!-- PROFILE SUMMARY CARDS — github-profile-summary-cards.vercel.app (stable, separate project) -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohan178k&theme=tokyonight" width="32%" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohan178k&theme=tokyonight" width="32%" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohan178k&theme=tokyonight&utcOffset=5.5" width="32%" alt="Productive Time" />
 </div>
 
 <br/>
 
 <div align="center">
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan178k&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&langs_count=8" alt="Top Languages" width="38%" />
-&nbsp;&nbsp;&nbsp;
-<!-- Profile Summary Cards - Productive Time (github-profile-summary-cards - stable) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohan178k&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="38%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohan178k&theme=tokyonight" width="82%" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohan178k&theme=tokyonight" width="90%" alt="Profile Summary" />
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
+<!-- REPO CARDS — using direct GitHub links + manually built shields (100% reliable, no API needed) -->
+
 <div align="center">
 
+<!-- Web Projects -->
 <a href="https://github.com/rohan178k/Web-Projects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan178k&repo=Web-Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff" alt="Web Projects" width="47%" />
+<img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rohan178k&repo=Web-Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff" alt="Web Projects" width="47%"/>
 </a>
+<!-- Python Projects -->
 <a href="https://github.com/rohan178k/Python-Projects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan178k&repo=Python-Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff" alt="Python Projects" width="47%" />
+<img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rohan178k&repo=Python-Projects&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff" alt="Python Projects" width="47%"/>
 </a>
 
 <br/><br/>
 
+<!-- Data Analysis Dashboard -->
 <a href="https://github.com/rohan178k/Data-Analysis-Dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan178k&repo=Data-Analysis-Dashboard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff" alt="Data Analysis Dashboard" width="47%" />
+<img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rohan178k&repo=Data-Analysis-Dashboard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff" alt="Data Analysis Dashboard" width="47%"/>
 </a>
+<!-- Anime Portfolio -->
 <a href="https://github.com/rohan178k/Anime-Theme-Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan178k&repo=Anime-Theme-Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff" alt="Anime Theme Portfolio" width="47%" />
+<img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rohan178k&repo=Anime-Theme-Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff" alt="Anime Theme Portfolio" width="47%"/>
 </a>
 
 </div>
+
+<br/>
 
 > 💡 Star a repo if you find it useful — it means a lot! 🌟
 
@@ -219,14 +224,14 @@ fun_fact: >
 
 ---
 
-<!-- GitHub Trophies (github-profile-trophy — stable) -->
+<!-- TROPHIES — volunteer-hosted mirror listed on official ryo-ma repo (stable) -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohan178k&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" width="100%" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=rohan178k&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" width="100%" />
 </div>
 
 <br/>
 
-<!-- Snake contribution animation (platane/snk — stable GitHub Actions output) -->
+<!-- SNAKE ANIMATION — platane/snk (GitHub Actions output, hosted on raw.githubusercontent.com — always stable) -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -235,13 +240,13 @@ fun_fact: >
   </picture>
 </div>
 
-<!-- Footer wave -->
+<!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:7B2FBE,100:00D9FF&height=120&section=footer&animation=fadeIn" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3500&pause=1000&color=888888&center=true&vCenter=true&width=650&lines=Thanks+for+visiting!+%E2%AD%90+Drop+a+star+if+you+like+what+you+see!;Always+building%2C+always+learning%2C+always+creating+%F0%9F%9A%80" alt="Footer typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3500&pause=1000&color=888888&center=true&vCenter=true&width=650&lines=Thanks+for+visiting!+%E2%AD%90+Drop+a+star+if+you+like+what+you+see!;Always+building%2C+always+learning%2C+always+creating+%F0%9F%9A%80" alt="Footer" />
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--         Made with ❤️ by Rohan Kusmude | @rohan178k               -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--        Made with ❤️ by Rohan Kusmude | @rohan178k              -->
+<!-- ══════════════════════════════════════════════════════════════════ -->

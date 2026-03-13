@@ -168,13 +168,14 @@ fun_fact: >
 
 <br/><br/>
 
-<!-- Data Analysis Dashboard -->
-<a href="https://github.com/rohan178k/Data-Analysis-Dashboard">
-<img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rohan178k&repo=Data-Analysis-Dashboard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff" alt="Data Analysis Dashboard" width="47%"/>
-</a>
 <!-- Anime Portfolio -->
 <a href="https://github.com/rohan178k/Anime-Theme-Portfolio">
 <img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rohan178k&repo=Anime-Theme-Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff" alt="Anime Theme Portfolio" width="47%"/>
+</a>
+
+<!-- Data Analysis Dashboard -->
+<a href="https://github.com/rohan178k/Data-Analysis-Dashboard">
+<img align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rohan178k&repo=Data-Analysis-Dashboard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=7B2FBE&text_color=ffffff" alt="Data Analysis Dashboard" width="47%"/>
 </a>
 
 </div>

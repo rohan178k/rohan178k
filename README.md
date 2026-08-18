@@ -32,9 +32,9 @@
 ```yaml
 name:       Rohan Kusmude
 alias:      rohan178k
-age:        19
-degree:     Second Year BCA Student
-location:   Ahmednagar, Maharashtra, India
+age:        20
+degree:     Third Year BCA Student
+location:   Ahilyanagar, Maharashtra, India
 
 passion:
   - Building full-stack web apps
@@ -44,7 +44,7 @@ passion:
   - Painting & visual art 🎨
 
 languages_spoken:
-  - Hindi | English | Marathi | Urdu
+  - Hindi | English | Marathi | Japanese
 
 currently_learning:
   - Advanced React & Next.js patterns
